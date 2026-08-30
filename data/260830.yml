@@ -1,0 +1,58 @@
+about:
+  description: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
+  license: MIT
+  homepage: 
+  head: 78c514b
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-30T05:40:17Z
+timeline:
+  created: 2026-03-29
+  lastCommit: 2026-08-25
+  lastRelease: ?
+popularity:
+  star: 2980
+  watcher: 21
+  fork: 200
+  release: 0
+  contributor: 5
+  pullRequest: 11
+  issue: 108
+language:
+  Rust: 2186520
+  Python: 50969
+  JavaScript: 3391
+totalLine: 2240880
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 5
+    openIssue: 17
+    commit: 7
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 21
+    openIssue: 22
+    commit: 10
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 0
+    openPR: 6
+    closedIssue: 79
+    openIssue: 29
+    commit: 54
+  last360d:
+    since: 2025-09-04
+    release: 0
+    mergedPR: 0
+    openPR: 6
+    closedIssue: 79
+    openIssue: 29
+    commit: 54
