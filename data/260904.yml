@@ -7,7 +7,7 @@ about:
   head: 78c514b
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:53:57Z
+  collectedAt: 2026-09-04T20:51:57Z
 timeline:
   created: 2026-03-29
   lastCommit: 2026-08-25
@@ -82,5 +82,48 @@ total:
   openIssue: 37
   commit: 54
 ---
+path: /home/runner/.x-repo/github.com/WecomTeam/wecom-cli
+collectedAt: 2026-09-04T20:51:58Z
+loc:
+  Rust:
+    code: 39426
+    comments: 1687
+    blanks: 5908
+    files: 216
+  Yaml:
+    code: 1820
+    comments: 0
+    blanks: 556
+    files: 3
+  Python:
+    code: 1060
+    comments: 113
+    blanks: 202
+    files: 1
+  Toml:
+    code: 189
+    comments: 0
+    blanks: 21
+    files: 6
+  Json:
+    code: 158
+    comments: 0
+    blanks: 0
+    files: 7
+  JavaScript:
+    code: 105
+    comments: 15
+    blanks: 12
+    files: 4
+  Markdown:
+    code: 0
+    comments: 16353
+    blanks: 5920
+    files: 186
+total:
+  code: 44364
+  comments: 28151
+  blanks: 13712
+  files: 423
 ---
 
