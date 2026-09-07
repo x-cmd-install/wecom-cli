@@ -5,14 +5,14 @@ about:
   head: 78c514b
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:50:34Z
+  collectedAt: 2026-09-07T18:37:06Z
 timeline:
   created: 2026-03-29
   lastCommit: 2026-08-25
   lastRelease: 
 popularity:
-  star: 3024
-  watcher: 21
+  star: 3027
+  watcher: 22
   fork: 204
   release: 0
   contributor: 5
@@ -81,7 +81,7 @@ total:
   commit: 54
 ---
 path: /home/runner/.x-repo/github.com/WecomTeam/wecom-cli
-collectedAt: 2026-09-07T05:50:35Z
+collectedAt: 2026-09-07T18:37:08Z
 loc:
   Rust:
     code: 39426
@@ -127,7 +127,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:50:36+00:00
+  collectedAt: 2026-09-07T18:37:12+00:00
   platform:
     darwin/arm64:
       name:  null
