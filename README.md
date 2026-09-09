@@ -5,9 +5,9 @@
 - **Upstream**: <https://github.com/WecomTeam/wecom-cli>
 - **Homepage**: <>
 - **Latest release**: `` (n/a)
-- **Last commit**: 2026-08-25
+- **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 3035 · **Forks**: 205 · **Open issues**: 120 · **Contributors**: 5
+- **Stars**: 3037 · **Forks**: 206 · **Open issues**: 122 · **Contributors**: 5
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/wecom-cli> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:11:20Z._
+_Last regenerated: 2026-09-09T05:52:01Z._
