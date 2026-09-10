@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:57:54Z
+  collectedAt: 2026-09-10T18:05:29Z
 timeline:
   created: 2026-03-29
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 3047
-  watcher: 22
-  fork: 206
+  star: 3054
+  watcher: 21
+  fork: 207
   release: 0
   contributor: 5
   pullRequest: 11
@@ -85,7 +85,7 @@ total:
   commit: 59
 ---
 path: /home/runner/.x-repo/github.com/WecomTeam/wecom-cli
-collectedAt: 2026-09-10T05:57:55Z
+collectedAt: 2026-09-10T18:05:31Z
 loc:
   Rust:
     code: 39802
