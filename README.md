@@ -14,15 +14,15 @@ x install wecom-cli
 
 ## Code insight
 
-Total: **48,635** lines of code across **274** files in the top 5 languages.
+Total: **49,366** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 45,260 | 2,009 | 6,556 | 255 |
+| Rust | 45,988 | 2,027 | 6,642 | 256 |
 | Yaml | 1,898 | 0 | 579 | 3 |
 | Python | 973 | 108 | 193 | 1 |
-| Toml | 239 | 2 | 27 | 8 |
-| Json | 160 | 0 | 0 | 7 |
+| Toml | 240 | 2 | 27 | 8 |
+| Json | 162 | 0 | 0 | 7 |
 
 ## Source
 
@@ -31,22 +31,22 @@ Total: **48,635** lines of code across **274** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,115 · **Forks**: 210 · **Open issues**: 130 · **Contributors**: 5
+- **Stars**: 3,122 · **Forks**: 210 · **Open issues**: 131 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 6 · **Closed issues**: 81 · **Open issues**: 49 · **Commits**: 64
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 6 · **Closed issues**: 81 · **Open issues**: 50 · **Commits**: 71
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 1 | 0 | 32 | 10 |
-| last60d | 2026-07-23 | 0 | 0 | 2 | 9 | 37 | 17 |
-| 90d | 2026-06-23 | 0 | 0 | 3 | 13 | 38 | 20 |
-| last180d | 2026-03-25 | 0 | 0 | 6 | 81 | 49 | 57 |
-| 360d | 2025-09-26 | 0 | 0 | 6 | 81 | 49 | 64 |
-| last720d | 2024-10-01 | 0 | 0 | 6 | 81 | 49 | 64 |
+| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 32 | 17 |
+| last60d | 2026-07-24 | 0 | 0 | 2 | 9 | 38 | 24 |
+| 90d | 2026-06-24 | 0 | 0 | 3 | 13 | 39 | 27 |
+| last180d | 2026-03-26 | 0 | 0 | 6 | 81 | 50 | 64 |
+| 360d | 2025-09-27 | 0 | 0 | 6 | 81 | 50 | 71 |
+| last720d | 2024-10-02 | 0 | 0 | 6 | 81 | 50 | 71 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for wecom-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:10:09Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:41Z._
