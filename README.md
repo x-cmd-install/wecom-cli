@@ -4,7 +4,7 @@
 
 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
 
-[![x-cmd/install — wecom-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wecom-cli.svg)](https://x-cmd.com/install/wecom-cli)
+[![x-cmd/install — wecom-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wecom-cli.svg)](https://x-cmd.com/install/wecom-cli)
 
 ## Install
 
@@ -31,22 +31,22 @@ Total: **49,366** lines of code across **275** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,122 · **Forks**: 210 · **Open issues**: 131 · **Contributors**: 5
+- **Stars**: 3,127 · **Forks**: 213 · **Open issues**: 132 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 6 · **Closed issues**: 81 · **Open issues**: 50 · **Commits**: 71
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 51 · **Commits**: 71
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 32 | 17 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 9 | 38 | 24 |
-| 90d | 2026-06-24 | 0 | 0 | 3 | 13 | 39 | 27 |
-| last180d | 2026-03-26 | 0 | 0 | 6 | 81 | 50 | 64 |
-| 360d | 2025-09-27 | 0 | 0 | 6 | 81 | 50 | 71 |
-| last720d | 2024-10-02 | 0 | 0 | 6 | 81 | 50 | 71 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 32 | 17 |
+| last60d | 2026-07-25 | 0 | 0 | 3 | 9 | 39 | 24 |
+| 90d | 2026-06-25 | 0 | 0 | 4 | 13 | 40 | 27 |
+| last180d | 2026-03-27 | 0 | 0 | 7 | 81 | 51 | 64 |
+| 360d | 2025-09-28 | 0 | 0 | 7 | 81 | 51 | 71 |
+| last720d | 2024-10-03 | 0 | 0 | 7 | 81 | 51 | 71 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for wecom-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:13:48Z._
