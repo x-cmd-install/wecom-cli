@@ -14,11 +14,11 @@ x install wecom-cli
 
 ## Code insight
 
-Total: **49,366** lines of code across **275** files in the top 5 languages.
+Total: **49,497** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 45,988 | 2,027 | 6,642 | 256 |
+| Rust | 46,119 | 2,027 | 6,651 | 256 |
 | Yaml | 1,898 | 0 | 579 | 3 |
 | Python | 973 | 108 | 193 | 1 |
 | Toml | 240 | 2 | 27 | 8 |
@@ -31,22 +31,22 @@ Total: **49,366** lines of code across **275** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,134 · **Forks**: 213 · **Open issues**: 132 · **Contributors**: 5
+- **Stars**: 3,140 · **Forks**: 213 · **Open issues**: 132 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 51 · **Commits**: 71
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 51 · **Commits**: 78
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 2 | 0 | 27 | 17 |
-| last60d | 2026-07-26 | 0 | 0 | 3 | 9 | 39 | 24 |
-| 90d | 2026-06-26 | 0 | 0 | 4 | 13 | 40 | 27 |
-| last180d | 2026-03-28 | 0 | 0 | 7 | 81 | 51 | 64 |
-| 360d | 2025-09-29 | 0 | 0 | 7 | 81 | 51 | 71 |
-| last720d | 2024-10-04 | 0 | 0 | 7 | 81 | 51 | 71 |
+| 30d | 2026-08-26 | 0 | 0 | 2 | 0 | 25 | 24 |
+| last60d | 2026-07-27 | 0 | 0 | 3 | 9 | 39 | 31 |
+| 90d | 2026-06-27 | 0 | 0 | 4 | 13 | 40 | 34 |
+| last180d | 2026-03-29 | 0 | 0 | 7 | 81 | 51 | 71 |
+| 360d | 2025-09-30 | 0 | 0 | 7 | 81 | 51 | 78 |
+| last720d | 2024-10-05 | 0 | 0 | 7 | 81 | 51 | 78 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for wecom-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:41:29Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:59:14Z._
