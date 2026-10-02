@@ -31,22 +31,22 @@ Total: **49,497** lines of code across **275** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,151 · **Forks**: 216 · **Open issues**: 135 · **Contributors**: 5
+- **Stars**: 3,153 · **Forks**: 217 · **Open issues**: 136 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 54 · **Commits**: 78
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 55 · **Commits**: 78
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 23 | 24 |
-| last60d | 2026-08-02 | 0 | 0 | 3 | 7 | 42 | 31 |
-| 90d | 2026-07-03 | 0 | 0 | 4 | 13 | 43 | 31 |
-| last180d | 2026-04-04 | 0 | 0 | 7 | 53 | 51 | 61 |
-| 360d | 2025-10-06 | 0 | 0 | 7 | 81 | 54 | 78 |
-| last720d | 2024-10-11 | 0 | 0 | 7 | 81 | 54 | 78 |
+| 30d | 2026-09-02 | 0 | 0 | 1 | 0 | 22 | 24 |
+| last60d | 2026-08-03 | 0 | 0 | 3 | 7 | 43 | 31 |
+| 90d | 2026-07-04 | 0 | 0 | 4 | 13 | 44 | 31 |
+| last180d | 2026-04-05 | 0 | 0 | 7 | 52 | 52 | 61 |
+| 360d | 2025-10-07 | 0 | 0 | 7 | 81 | 55 | 78 |
+| last720d | 2024-10-12 | 0 | 0 | 7 | 81 | 55 | 78 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for wecom-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:50:39Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:36:16Z._
